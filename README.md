@@ -1,7 +1,7 @@
 ## UI Designer Exercise
 
 This exercise is intended to see how you think and what types of design styles and patterns you would use 
-if you were selected to work at Living As One.  Assume though assests have been provided that the Dev Team will be redoing the entire portal so the design is limited only by your creativity.
+if you were selected to work at Living As One. 
 
 ### User Story Definition
 
